@@ -1,0 +1,34 @@
+.navbar-custom{
+    background-color: #2C3E50;
+    color:black;
+}
+
+
+body{
+    background-size: cover;
+    background-image: url("https://images.unsplash.com/photo-1520275126937-9506f7dd123c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1cb5488bb0a0738186b21b62546b9a1b&auto=format&fit=crop&w=791&q=80");
+
+}
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+
+.row {
+    margin-top: 6%;
+    margin-left : 17% !important;
+}
+
+
+.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px ;
+  }
+
+div#text {
+    width: 33%;
+    margin-top: -16%;
+    margin-left: 27%;
+}

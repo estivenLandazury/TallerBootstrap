@@ -1,0 +1,57 @@
+.navbar-custom{
+	background-color: #2C3E50;
+	color:black;
+}
+.page-header{
+background-image: url("https://images.unsplash.com/photo-1534698435722-8d4dd3902268?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6d3100ece1ec3e579c3c669ee4fd1250&auto=format&fit=crop&w=750&q=80");
+background-size: cover;
+    padding-top: 26%;
+    text-align: center;
+   
+
+}
+
+.page-header1{
+background-image: url("https://images.unsplash.com/photo-1529338296731-c4280a44fc48?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fc07ad734034d3b2c79d4d9f55cc6a5b&auto=format&fit=crop&w=334&q=80");
+background-size: cover;
+    padding-top: 26%;
+    text-align: center;
+   
+
+}
+
+html{
+	height: 100%;
+	width: 100%;
+}
+
+
+#text{
+	
+}
+
+
+.col-lg-5.col-md-6.pink.my-3 {
+	text-align: center;
+    margin-left: 4%;
+}
+
+
+.col-lg-4.col-md-6.pink.my-3 {
+	text-align: center;
+    margin-left: -1%;
+}
+
+
+
+.footer{
+	color: white;
+    background: #2c3e50;
+}
+
+
+
+
+
+
+
